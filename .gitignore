@@ -1,3 +1,7 @@
 .DS_Store
+<<<<<<< HEAD
 activities/.ipynb_checkpoints/03_merging_exact_blank-Copy1-checkpoint.ipynb
 My Work/.ipynb_checkpoints/03_merging_exact_blank-checkpoint.ipynb
+=======
+activities/.ipynb_checkpoints/03_merging_exact_blank-checkpoint.ipynb
+>>>>>>> upstream/main
